@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Race</string>
+    <string name="game">Начать игру</string>
+    <string name="restart_game">Начать сначала</string>
+</resources>
